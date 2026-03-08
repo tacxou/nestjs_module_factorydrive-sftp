@@ -10,7 +10,7 @@ import {
   Response,
   StatResponse,
   UnknownException,
-} from '@the-software-compagny/nestjs_module_factorydrive'
+} from '@tacxou/nestjs_module_factorydrive'
 import { PassThrough } from 'node:stream'
 import Client, { ConnectOptions } from 'ssh2-sftp-client'
 
