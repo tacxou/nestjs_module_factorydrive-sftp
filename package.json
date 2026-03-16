@@ -52,7 +52,7 @@
     "ssh2-sftp-client": "^11.0.0"
   },
   "devDependencies": {
-    "@nestjs/common": "^10.4.4",
+    "@nestjs/common": "^11.1.17",
     "@nestjs/core": "^10.4.4",
     "@tacxou/nestjs_module_factorydrive": "^1.1.5",
     "@types/node": "latest",
