@@ -61,7 +61,7 @@
     "@typescript-eslint/eslint-plugin": "^8.8.0",
     "@typescript-eslint/parser": "^8.8.0",
     "cpr": "^3.0.1",
-    "eslint": "^9.11.1",
+    "eslint": "^10.2.1",
     "prettier": "^3.3.3",
     "reflect-metadata": "^0.2.2",
     "rimraf": "^6.0.1",
